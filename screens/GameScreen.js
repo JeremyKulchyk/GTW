@@ -46,7 +46,7 @@ export default class HomeScreen extends React.Component {
             </Text>
             
             <Text>
-              Fuck Me
+              Fuck Me twice
             </Text>
           </View>
 
